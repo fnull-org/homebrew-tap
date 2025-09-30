@@ -15,7 +15,7 @@ class Fnull < Formula
   license "MIT"
 
   def install
-	bin.install "fnull"
+	bin.install "fnull-v0.1.1/fnull"
   end
 
   test do
